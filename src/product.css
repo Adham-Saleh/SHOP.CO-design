@@ -843,6 +843,12 @@ nav {
   color: #ff3333;
 }
 
+@media (min-width: 882px) {
+  .products {
+    justify-content: center;
+  }
+}
+
 @media (min-width: 1370px) {
   .products {
     justify-content: center;
